@@ -11,8 +11,10 @@ App.Views.Spark = Backbone.View.extend({
     },
 
     render: function () {
-        alert(JSON.stringify(this.model));
+        // alert(JSON.stringify(this.model));
 
+        // how to using Mustache.js to as template to render?
+        
         return this; // for chainable calls, like .render().el
     },
 
