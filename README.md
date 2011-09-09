@@ -7,3 +7,5 @@ $ python -m SimpleHTTPServer
 Open http://localhost:8000/
 
 http://stackoverflow.com/questions/4208530/xmlhttprequest-origin-null-is-not-allowed-access-control-access-allow-for-file
+
+$ git push -u origin master
